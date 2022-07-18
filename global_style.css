@@ -1,11 +1,14 @@
 a, a:hover, a:focus, a:active {
      text-decoration: none;
      color: inherit;
- }
-#menu {
+}
+menu{
 	position: fixed;
-	left: 3%;
-	top: 3%;
+	left: 0.5%;
 	font-size: 150%;
-	background-color: white;
+	background-color: gray;
+}
+body{
+	position: absolute;
+	left: 5%;
 }
