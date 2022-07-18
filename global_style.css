@@ -4,8 +4,7 @@ a, a:hover, a:focus, a:active {
  }
 #menu {
 	position: fixed;
-	left: 3%;
-	top: 3%;
-	font-size: 150%;
+	left: 5%;
+	top: 2%;
 	background-color: white;
 }
